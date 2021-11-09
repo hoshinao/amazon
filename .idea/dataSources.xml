@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="SQLite - identifier.sqlite" uuid="b1687e9b-cfd2-4634-8229-8dc35e28784f">
+    <data-source source="LOCAL" name="database" uuid="f1e8a31e-8153-405d-896b-8950e95f05a4">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:identifier.sqlite</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
-    <data-source source="LOCAL" name="database" uuid="89693690-9910-4026-b007-f5e1ecc71787">
-      <driver-ref>sqlite.xerial</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:C:\Users\obi21703\PycharmProjects\pythonProject6\database.db</jdbc-url>
+      <jdbc-url>jdbc:sqlite:C:\Users\programing\PycharmProjects\amazon\database.db</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
       <libraries>
         <library>
